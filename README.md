@@ -2,7 +2,7 @@
 
 Feito na Unity Engine
 
-Objetivo do jogo, é coletar o maior número possível de carnes em 10 segundo, melhorando assim a coordenação motora.
+Objetivo do jogo, é coletar o maior número possível de carnes em 10 segundos, melhorando assim a coordenação motora.
 
 Você pode jogar no seu navegador web ou mobile pelo link: [Minha Fazendinha](https://arianekellygamedev.itch.io/minha-fazendinha)
 
